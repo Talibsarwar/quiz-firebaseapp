@@ -97,7 +97,7 @@ const App: React.FC = () => {
           </button>
         ) : null}
         <button className="Notification" onClick={initNotification}>
-          Allow Notification
+          Allow Notifications
         </button>
       </Wrapper>
     </>
