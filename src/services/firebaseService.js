@@ -1,11 +1,11 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDNL_a1E_2kIi-9Ego_wGn9GiaNFPRYGNs",
+    apiKey: "AIzaSyB9-JqFf79NmOwkj4Lg6UCDLRcUzxh2e50",
     authDomain: "quiz-app-267b3.firebaseapp.com",
     databaseURL: "https://quiz-app-267b3.firebaseio.com",
     projectId: "quiz-app-267b3",
-    storageBucket: "expense-tracker-app-596f8.appspot.com",
+    storageBucket: "quiz-app-267b3.appspot.com",
     messagingSenderId: "57804601906",
     appId: "1:57804601906:web:8774813a164e4618fc1a2b",
     measurementId: "G-BDY5WRNXSW"

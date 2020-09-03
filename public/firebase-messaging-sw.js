@@ -2,7 +2,7 @@ importScripts('https://www.gstatic.com/firebasejs/7.17.1/firebase-app.js');
 importScripts('https://www.gstatic.com/firebasejs/7.17.1/firebase-messaging.js');
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDNL_a1E_2kIi-9Ego_wGn9GiaNFPRYGNs",
+    apiKey: "AIzaSyB9-JqFf79NmOwkj4Lg6UCDLRcUzxh2e50",
     authDomain: "quiz-app-267b3.firebaseapp.com",
     databaseURL: "https://quiz-app-267b3.firebaseio.com",
     projectId: "quiz-app-267b3",
