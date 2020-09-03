@@ -6,6 +6,7 @@ import QuestionCard from './components/QuestionCard';
 import { QuestionsState, Difficulty } from './API';
 // Styles
 import { GlobalStyle, Wrapper } from './App.styles';
+import { initNotification } from './services/firebaseService';
 
 export type AnswerObject = {
   question: string;
@@ -95,6 +96,9 @@ const App: React.FC = () => {
             Next Question
           </button>
         ) : null}
+        <button className="Notification" onClick={initNotification}>
+          Allow Notification
+        </button>
       </Wrapper>
     </>
   );
