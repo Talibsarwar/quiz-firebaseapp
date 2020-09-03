@@ -6,9 +6,9 @@ const firebaseConfig = {
     databaseURL: "https://quiz-app-267b3.firebaseio.com",
     projectId: "quiz-app-267b3",
     storageBucket: "quiz-app-267b3.appspot.com",
-    messagingSenderId: "57804601906",
-    appId: "1:57804601906:web:8774813a164e4618fc1a2b",
-    measurementId: "G-BDY5WRNXSW"
+    messagingSenderId: "63574067800",
+    appId: "1:63574067800:web:1207b147471bfe2f1f982d",
+    measurementId: "G-1B2S8KW79V"
 };
 
 firebase.initializeApp(firebaseConfig);
